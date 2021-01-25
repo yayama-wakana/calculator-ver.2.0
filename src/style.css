@@ -1,0 +1,16 @@
+.Box {
+  border: 1px solid;
+}
+
+.App {
+  max-width: 300px;
+  text-align: right;
+}
+
+.button {
+  width: 55px;
+  height: 30px;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 25px; 
+}
